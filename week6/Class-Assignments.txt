@@ -1,8 +1,8 @@
 1) Find largest and then second largest number in array.
 
-2) Multiply two vectors.
+2) Multiply two vectors and then multiply two square matrix.
 
-3) Multiply two square matrix.
+3) Calculate ten fibonacci numbers and store it in array.
 
 4) Write a promram in C to find a pair with given sum in the array.
 
