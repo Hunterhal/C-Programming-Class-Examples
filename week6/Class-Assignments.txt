@@ -1,0 +1,9 @@
+1) Find largest and then second largest number in array.
+
+2) Multiply two vectors.
+
+3) Multiply two square matrix.
+
+4) Write a promram in C to find a pair with given sum in the array.
+
+5) Find how many repeated numbers in an array.
