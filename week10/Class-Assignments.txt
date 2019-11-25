@@ -1,0 +1,9 @@
+Write a string calculator code.
+
+Input will be "1234+894" and the program will calculate the result.
+
+Be careful with the maximum value of integer.
+
+Add check digit code
+
+Add + - * / operations
